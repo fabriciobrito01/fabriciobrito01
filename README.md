@@ -1,4 +1,4 @@
-## Bem-vindo ao meu repositório, sou o Fabrício de Brito!
+## Bem-vindo ao meu repositório!
 
 
 ![Fabrício GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriciobrito01&theme=dark_icons=true)
